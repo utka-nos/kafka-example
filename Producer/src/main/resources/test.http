@@ -4,6 +4,6 @@ Accept: application/json
 
 
 {
-  "item" : "bread",
+  "item" : "milk",
   "amount" : 2
 }
