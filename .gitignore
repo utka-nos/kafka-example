@@ -1,0 +1,5 @@
+.idea
+Consumer/target
+Producer/target
+spring-kafka-demo.iml
+.git

@@ -1,0 +1,9 @@
+POST localhost:8080/order
+Content-Type: application/json
+Accept: application/json
+
+
+{
+  "item" : "bread",
+  "amount" : 2
+}

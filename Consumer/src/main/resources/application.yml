@@ -1,0 +1,16 @@
+server:
+  port: 8081
+
+topic:
+  name: t.food.order
+
+spring:
+  kafka:
+    consumer:
+      group-id: "default"
+  datasource:
+    url: jdbc:postgresql://localhost:5432/kafka
+    password: 1234qwer
+    username: postgres
+  jpa:
+    generate-ddl: true
